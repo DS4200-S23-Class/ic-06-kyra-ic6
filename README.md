@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see `[https://ds4200-s23-class.github.io/ic-06-kyra-ic6/]`. 
 
 1. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-06". 

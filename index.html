@@ -3,12 +3,35 @@
 
 <head>
     <meta charset=utf-8/>
+    <link rel = "stylesheet" href = "style.css">
+    <title> ic-06</title>
 </head>
 
-
 <body>
+    <h1>JavaScript Part 2</h1>
 
+    <div> 
+        <div class = "gen">
 
+        <p>Choose your favorite vis</p>
+
+        <form id = "frm-faveVis">
+            <input type = "radio" name = "fave_vis" value = "Bar Chart"/> Bar Chart
+            <br>
+            <input type = "radio" name = "fave_vis" value = "Line Chart"/> Line Chart
+        </form>
+        <button type = "button" id = "subButton">Submit </button>
+    </div>
+    <div class = "gen" id = "selected-vis"> 
+    </div>
+    <div>
+        <svg id = "frame">
+            <circle cx = "0" cy = "500" r = "10"/>
+        </svg>
+    </div>
+
+</div>
+<script src = "main.js"></script>
 </body>
 
 </html>
